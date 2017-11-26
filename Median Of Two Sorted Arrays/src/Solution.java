@@ -2,23 +2,16 @@ import java.util.Arrays;
 
 public class Solution {
 
-	public static void main(String[] args) {
-
-		int[] nums1 = { 1, 2, 3, 7, 10, 19, 26, 28, 36 };
-		int[] nums2 = { 3, 4, 8, 16, 24, 33, 54 };
-
-		System.out.println(findMedianSortedArrays(nums1, nums2));
-
-	}
-
 	public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
-		int[] combined = new int[nums1.length + nums2.length];
-		int combinedCount = 0;
-		int first = 0;
-		int second = 0;
+		int[] combined = new int[nums1.length + nums2.length]; //values from nums1 & nums2 will be combined here
+		int combinedCount = 0; // combined array index position
+		int first = 0; //index position of nums1
+		int second = 0; //index position of nums2
 		double median = 0;
 
+		//compare the next values of two input arrays, continue to add lowest values to combined array
+		//until it reaches the end of one of the two input arrays
 		while (first < nums1.length && second < nums2.length) {
 			if (nums1[first] == nums2[second]) {
 				combined[combinedCount] = nums1[first];
@@ -38,30 +31,27 @@ public class Solution {
 			}
 		}
 		
+		//add the rest of the values from nums1 to combined array, if any remain
 		while (first < nums1.length) {
 			combined[combinedCount] = nums1[first];
 			combinedCount++;
 			first++;
 		}
 		
+		//add the rest of the values from nums2 to combined array, if any remain
 		while (second < nums2.length) {
 			combined[combinedCount] = nums2[second];
 			combinedCount++;
 			second++;
 		}
 		
-		
-		System.out.println(Arrays.toString(combined));
-		System.out.println(combined.length);
-		if(combined.length % 2 != 0) { //odd
-			System.out.println("odd");
+		//find median, if the length of the combined array is odd
+		if(combined.length % 2 != 0) {
 			median = combined[combined.length/2];
-		} else { //even
-			System.out.println("even");
+		} else { // if the length is even... 
 			median = (combined[combined.length/2] + combined[combined.length/2 - 1]) / 2.0; 
 		}
 		
-
 		return median;
 	}
 
