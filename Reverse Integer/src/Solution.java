@@ -20,12 +20,6 @@ Assume we are dealing with an environment which could only hold integers within 
 
 public class Solution {
 
-	public static void main(String[] args) {
-
-		System.out.println(reverse(-2147483412));
-
-	}
-
 	public static int reverse(int x) {
 
 		int input = x;
@@ -44,7 +38,6 @@ public class Solution {
 					return 0;
 				}
 				result = result * 10;
-				System.out.println(result);
 			}
 		}
 
