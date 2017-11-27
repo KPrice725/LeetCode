@@ -4,15 +4,6 @@ Determine whether an integer is a palindrome. Do this without extra space.
 
 public class Solution {
 
-	public static void main(String[] args) {
-
-		System.out.println(isPalindrome(1235));
-		System.out.println(isPalindrome(121));
-		System.out.println(isPalindrome(-1001));
-		System.out.println(isPalindrome(6888886));
-
-	}
-
 	public static boolean isPalindrome(int x) {
 
 		int input = x;
