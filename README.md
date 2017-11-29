@@ -17,6 +17,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 15. 3Sum - https://leetcode.com/problems/3sum/description/
 
+66. Plus One - https://leetcode.com/problems/plus-one/description/
+
 461. Hamming Distance - https://leetcode.com/problems/hamming-distance/description/
 
 728. Self Dividing Numbers - https://leetcode.com/problems/self-dividing-numbers/description/
