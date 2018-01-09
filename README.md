@@ -22,3 +22,5 @@ My LeetCode Solutions - Updated as questions are solved.
 461. Hamming Distance - https://leetcode.com/problems/hamming-distance/description/
 
 728. Self Dividing Numbers - https://leetcode.com/problems/self-dividing-numbers/description/
+
+760. Find Anagram Mappings - https://leetcode.com/problems/find-anagram-mappings/description/
