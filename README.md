@@ -27,6 +27,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 448. Find All Numbers Disappeared In An Array - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 
+561. Aray Partition I - https://leetcode.com/problems/array-partition-i/description/
+
 595. Big Countries - https://leetcode.com/problems/big-countries/description/
 
 627. Swap Salary - https://leetcode.com/problems/swap-salary/description/
