@@ -19,6 +19,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 66. Plus One - https://leetcode.com/problems/plus-one/description/
 
+136. Single Number - https://leetcode.com/problems/single-number/description/
+
 176. Second Highest Salary - https://leetcode.com/problems/second-highest-salary/description/
 
 461. Hamming Distance - https://leetcode.com/problems/hamming-distance/description/
