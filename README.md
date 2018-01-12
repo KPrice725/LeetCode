@@ -51,6 +51,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 657. Judge Route Circle - https://leetcode.com/problems/judge-route-circle/description/
 
+682. Baseball Game - https://leetcode.com/problems/baseball-game/description/
+
 728. Self Dividing Numbers - https://leetcode.com/problems/self-dividing-numbers/description/
 
 760. Find Anagram Mappings - https://leetcode.com/problems/find-anagram-mappings/description/
