@@ -45,6 +45,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 595. Big Countries - https://leetcode.com/problems/big-countries/description/
 
+620. Not Boring Movies - https://leetcode.com/problems/not-boring-movies/description/
+
 627. Swap Salary - https://leetcode.com/problems/swap-salary/description/
 
 657. Judge Route Circle - https://leetcode.com/problems/judge-route-circle/description/
