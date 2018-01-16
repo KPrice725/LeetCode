@@ -23,6 +23,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 17. Leter Combinations of a Phone Number - https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 
+20. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/description/
+
 66. Plus One - https://leetcode.com/problems/plus-one/description/
 
 136. Single Number - https://leetcode.com/problems/single-number/description/
