@@ -8,7 +8,7 @@ Input is guaranteed to be within the range from 1 to 3999.
 
 public class Solution {
 
-	public static String intToRoman(int num) {
+	public String intToRoman(int num) {
 
 		StringBuilder sb = new StringBuilder();
 		
