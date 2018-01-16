@@ -15,6 +15,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 9. Palindrome Number - https://leetcode.com/problems/palindrome-number/description/
 
+12. Integer to Roman - https://leetcode.com/problems/integer-to-roman/description/
+
 14. Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix/description/
 
 15. 3Sum - https://leetcode.com/problems/3sum/description/
