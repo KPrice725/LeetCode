@@ -29,6 +29,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 20. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/description/
 
+27. Remove Element - https://leetcode.com/problems/remove-element/description/
+
 66. Plus One - https://leetcode.com/problems/plus-one/description/
 
 136. Single Number - https://leetcode.com/problems/single-number/description/
