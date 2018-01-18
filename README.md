@@ -33,6 +33,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 27. Remove Element - https://leetcode.com/problems/remove-element/description/
 
+28. Implement strStr() - https://leetcode.com/problems/implement-strstr/description/
+
 66. Plus One - https://leetcode.com/problems/plus-one/description/
 
 136. Single Number - https://leetcode.com/problems/single-number/description/
