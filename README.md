@@ -1,78 +1,80 @@
 # LeetCode
 My LeetCode Solutions - Updated as questions are solved.
+<ul>
+  
+<li>1. Two Sum - https://leetcode.com/problems/two-sum/description/</li>
 
-1. Two Sum - https://leetcode.com/problems/two-sum/description/
+<li>3. Longest Substring - https://leetcode.com/problems/longest-substring-without-repeating-characters/description/</li>
 
-3. Longest Substring - https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+<li>4. Median of Two Sorted Arrays - https://leetcode.com/problems/median-of-two-sorted-arrays/description/</li>
 
-4. Median of Two Sorted Arrays - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+<li>5. Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/description/</li>
 
-5. Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/description/
+<li>6. ZigZag Conversion - https://leetcode.com/problems/zigzag-conversion/description/</li>
 
-6. ZigZag Conversion - https://leetcode.com/problems/zigzag-conversion/description/
+<li>7. Reverse Integer - https://leetcode.com/problems/reverse-integer/description/</li>
 
-7. Reverse Integer - https://leetcode.com/problems/reverse-integer/description/
+<li>9. Palindrome Number - https://leetcode.com/problems/palindrome-number/description/</li>
 
-9. Palindrome Number - https://leetcode.com/problems/palindrome-number/description/
+<li>12. Integer to Roman - https://leetcode.com/problems/integer-to-roman/description/</li>
 
-12. Integer to Roman - https://leetcode.com/problems/integer-to-roman/description/
+<li>13. Roman to Integer - https://leetcode.com/problems/roman-to-integer/description/</li>
 
-13. Roman to Integer - https://leetcode.com/problems/roman-to-integer/description/
+<li>14. Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix/description/</li>
 
-14. Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix/description/
+<li>15. 3Sum - https://leetcode.com/problems/3sum/description/</li>
 
-15. 3Sum - https://leetcode.com/problems/3sum/description/
+<li>16. 3Sum Closest - https://leetcode.com/problems/3sum-closest/description/</li>
 
-16. 3Sum Closest - https://leetcode.com/problems/3sum-closest/description/
+<li>17. Leter Combinations of a Phone Number - https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/</li>
 
-17. Leter Combinations of a Phone Number - https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+<li>20. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/description/</li>
 
-20. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/description/
+<li>26. Remove Duplicates from Sorted Array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/</li>
 
-26. Remove Duplicates from Sorted Array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+<li>27. Remove Element - https://leetcode.com/problems/remove-element/description/</li>
 
-27. Remove Element - https://leetcode.com/problems/remove-element/description/
+<li>28. Implement strStr() - https://leetcode.com/problems/implement-strstr/description/</li>
 
-28. Implement strStr() - https://leetcode.com/problems/implement-strstr/description/
+<li>29. Divide Two Integers - https://leetcode.com/problems/divide-two-integers/description/</li>
 
-29. Divide Two Integers - https://leetcode.com/problems/divide-two-integers/description/
+<li>66. Plus One - https://leetcode.com/problems/plus-one/description/</li>
 
-66. Plus One - https://leetcode.com/problems/plus-one/description/
+<li>136. Single Number - https://leetcode.com/problems/single-number/description/</li>
 
-136. Single Number - https://leetcode.com/problems/single-number/description/
+<li>176. Second Highest Salary - https://leetcode.com/problems/second-highest-salary/description/</li>
 
-176. Second Highest Salary - https://leetcode.com/problems/second-highest-salary/description/
+<li>283. Move Zeroes - https://leetcode.com/problems/move-zeroes/description/</li>
 
-283. Move Zeroes - https://leetcode.com/problems/move-zeroes/description/
+<li>344. Reverse String - https://leetcode.com/problems/reverse-string/description/</li>
 
-344. Reverse String - https://leetcode.com/problems/reverse-string/description/
+<li>371. Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/description/</li>
 
-371. Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/description/
+<li>412. Fizz Buzz - https://leetcode.com/problems/fizz-buzz/description/</li>
 
-412. Fizz Buzz - https://leetcode.com/problems/fizz-buzz/description/
+<li>448. Find All Numbers Disappeared In An Array - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/</li>
 
-448. Find All Numbers Disappeared In An Array - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+<li>461. Hamming Distance - https://leetcode.com/problems/hamming-distance/description/</li>
 
-461. Hamming Distance - https://leetcode.com/problems/hamming-distance/description/
+<li>476. Number Complement - https://leetcode.com/problems/number-complement/description/</li>
 
-476. Number Complement - https://leetcode.com/problems/number-complement/description/
+<li>500. Keyboard Row - https://leetcode.com/problems/keyboard-row/description/</li>
 
-500. Keyboard Row - https://leetcode.com/problems/keyboard-row/description/
+<li>557. Reverse Words in a String III - https://leetcode.com/problems/reverse-words-in-a-string-iii/description/</li>
 
-557. Reverse Words in a String III - https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+<li>561. Aray Partition I - https://leetcode.com/problems/array-partition-i/description/</li>
 
-561. Aray Partition I - https://leetcode.com/problems/array-partition-i/description/
+<li>595. Big Countries - https://leetcode.com/problems/big-countries/description/</li>
 
-595. Big Countries - https://leetcode.com/problems/big-countries/description/
+<li>620. Not Boring Movies - https://leetcode.com/problems/not-boring-movies/description/</li>
 
-620. Not Boring Movies - https://leetcode.com/problems/not-boring-movies/description/
+<li>627. Swap Salary - https://leetcode.com/problems/swap-salary/description/</li>
 
-627. Swap Salary - https://leetcode.com/problems/swap-salary/description/
+<li>657. Judge Route Circle - https://leetcode.com/problems/judge-route-circle/description/</li>
 
-657. Judge Route Circle - https://leetcode.com/problems/judge-route-circle/description/
+<li>682. Baseball Game - https://leetcode.com/problems/baseball-game/description/</li>
 
-682. Baseball Game - https://leetcode.com/problems/baseball-game/description/
+<li>728. Self Dividing Numbers - https://leetcode.com/problems/self-dividing-numbers/description/</li>
 
-728. Self Dividing Numbers - https://leetcode.com/problems/self-dividing-numbers/description/
-
-760. Find Anagram Mappings - https://leetcode.com/problems/find-anagram-mappings/description/
+<li>760. Find Anagram Mappings - https://leetcode.com/problems/find-anagram-mappings/description/</li>
+</ul>
