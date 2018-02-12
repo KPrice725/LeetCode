@@ -1,6 +1,6 @@
 # LeetCode
 My LeetCode Solutions - Updated as questions are solved.
-<ul>
+<ul style="list-style-type:none">
   
 <li>1. Two Sum - https://leetcode.com/problems/two-sum/description/</li>
 
@@ -31,6 +31,8 @@ My LeetCode Solutions - Updated as questions are solved.
 <li>17. Leter Combinations of a Phone Number - https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/</li>
 
 <li>20. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/description/</li>
+
+<li>21. Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/description/</li>
 
 <li>26. Remove Duplicates from Sorted Array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/</li>
 
