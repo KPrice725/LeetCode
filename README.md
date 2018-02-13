@@ -42,6 +42,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 <li>29. Divide Two Integers - https://leetcode.com/problems/divide-two-integers/description/</li>
 
+<li>35. Search Insert Position - https://leetcode.com/problems/search-insert-position/description/</li>
+
 <li>66. Plus One - https://leetcode.com/problems/plus-one/description/</li>
 
 <li>136. Single Number - https://leetcode.com/problems/single-number/description/</li>
