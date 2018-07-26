@@ -44,7 +44,7 @@ My LeetCode Solutions - Updated as questions are solved.
 
 <li>35. Search Insert Position - https://leetcode.com/problems/search-insert-position/description/</li>
 
-<li>3. Count And Say - https://leetcode.com/problems/count-and-say/description/</li>
+<li>38. Count And Say - https://leetcode.com/problems/count-and-say/description/</li>
 
 <li>66. Plus One - https://leetcode.com/problems/plus-one/description/</li>
 
