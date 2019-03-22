@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="3Sum Closest/src"/>
+	<classpathentry kind="src" path="Add Two Numbers/src"/>
+	<classpathentry kind="src" path="Array Partition I/src"/>
+	<classpathentry kind="src" path="Baseball Game/src"/>
+	<classpathentry kind="src" path="Count And Say/src"/>
+	<classpathentry kind="src" path="Divide Two Integers/src"/>
+	<classpathentry kind="src" path="Find All Numbers Disappeared In Array/src"/>
+	<classpathentry kind="src" path="Find Anagram Mappings/src"/>
+	<classpathentry kind="src" path="Fizz Buzz/src"/>
+	<classpathentry kind="src" path="Hamming Distance/src"/>
+	<classpathentry kind="src" path="Implement strStr()/src"/>
+	<classpathentry kind="src" path="Integer to Roman/src"/>
+	<classpathentry kind="src" path="Judge Route Circle/src"/>
+	<classpathentry kind="src" path="Keyboard Row/src"/>
+	<classpathentry kind="src" path="Letter Combinations of a Phone Number/src"/>
+	<classpathentry kind="src" path="Longest Common Prefix/src"/>
+	<classpathentry kind="src" path="Longest Palindromic Substring/src"/>
+	<classpathentry kind="src" path="Longest Substring/src"/>
+	<classpathentry kind="src" path="Median Of Two Sorted Arrays/src"/>
+	<classpathentry kind="src" path="Merge Two Sorted Lists/src"/>
+	<classpathentry kind="src" path="Move Zeroes/src"/>
+	<classpathentry kind="src" path="Number Complement/src"/>
+	<classpathentry kind="src" path="Palindrome Number/src"/>
+	<classpathentry kind="src" path="Plus One/src"/>
+	<classpathentry kind="src" path="Remove Duplicates from Sorted Array/src"/>
+	<classpathentry kind="src" path="Remove Element/src"/>
+	<classpathentry kind="src" path="Reverse Integer/src"/>
+	<classpathentry kind="src" path="Reverse String/src"/>
+	<classpathentry kind="src" path="Reverse Words in a String III/src"/>
+	<classpathentry kind="src" path="Roman To Integer/src"/>
+	<classpathentry kind="src" path="Search Insert Position/src"/>
+	<classpathentry kind="src" path="Self Dividing Numbers/src"/>
+	<classpathentry kind="src" path="Single Number/src"/>
+	<classpathentry kind="src" path="Sum Of Two Integers/src"/>
+	<classpathentry kind="src" path="ThreeSum/src"/>
+	<classpathentry kind="src" path="TwoSum/src"/>
+	<classpathentry kind="src" path="Valid Parentheses/src"/>
+	<classpathentry kind="src" path="ZigZag Conversion/src"/>
+	<classpathentry kind="src" path="Maximum Subarray"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

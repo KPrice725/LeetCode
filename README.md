@@ -46,6 +46,8 @@ My LeetCode Solutions - Updated as questions are solved.
 
 <li>38. Count And Say - https://leetcode.com/problems/count-and-say/description/</li>
 
+<li>53. Maximum Subarray - https://leetcode.com/problems/maximum-subarray/</li>
+
 <li>66. Plus One - https://leetcode.com/problems/plus-one/description/</li>
 
 <li>136. Single Number - https://leetcode.com/problems/single-number/description/</li>
