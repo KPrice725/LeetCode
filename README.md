@@ -48,7 +48,15 @@ My LeetCode Solutions - Updated as questions are solved.
 
 <li>53. Maximum Subarray - https://leetcode.com/problems/maximum-subarray/</li>
 
+<li>58. Length of Last Word - https://leetcode.com/problems/length-of-last-word/</li>
+
 <li>66. Plus One - https://leetcode.com/problems/plus-one/description/</li>
+
+<li>67. Add Binary - https://leetcode.com/problems/add-binary/</li>
+
+<li>69. Sqrt(x) - https://leetcode.com/problems/sqrtx/</li>
+
+<li>70. Climbing Stairs - https://leetcode.com/problems/climbing-stairs/</li>
 
 <li>136. Single Number - https://leetcode.com/problems/single-number/description/</li>
 
